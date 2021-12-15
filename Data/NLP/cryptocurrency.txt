@@ -1,0 +1,67 @@
+It has been more than an year since I started investing in cryptocurrencies. Following Warren Buffet’s advice of “Never Invest In Something You Don’t Understand”, I started reading more and more about cryptocurrencies to go get a sense of things before jumping into the world of cryptocurrencies.
+Even today I am far from understanding cryptocurrencies completely, as it is a vast field. But I have learned enough to find my feet. When I started my learning stint, though there were lots of blogs and videos online, they were either very superficial or too deep. They were either too specific or too general. The learning path was not clear. After having spent almost an year in learnings I am writing this post so that newcomers like me will find it helpful and know enough to start exploring on their own. I have made it as a series of questions and answers. They are structured in the learning path I took. Most of the new users also might end up taking the same learning path and hence I felt that this order made sense.
+Before getting started with article, get a coffee or beer to keep your company. This is going to be a long article. I have addressed all the questions I faced. If there are a few things that you are familiar with, you can skip those questions and move to the next. You can also use this Table to Contents to skip to questions of your interest.
+It took me more than two complete days to finish this article. So if you find anything useful, clap right away. Don’t wait to reach till the bottom of this article as this is going to be a very long one. If you reach the end of the article then you can clap 50 times because that is the max ;)
+Let us get started now. See you at the bottom of this post.
+What is cryptocurrency?
+A digital currency in which code based on cryptography controls the generation of units of currency and verification of transactions for transfer of funds. A cryptocurrency is not backed by a government or a central bank of any country/countries. The account keeping is done in a distributed manner. Think of it as a distributed ledger one in which you can’t alter the order of transactions.
+In short you can call it people’s money. Money created by the masses, for the masses and controlled by the masses.
+Such money has various advantages compared to FIAT currency. That is the whole reason many banks and governments are opposing the adoption of cryptocurrencies. Cryptocurrencies takes the power out of centralised power centers, whether they are governments or central banks.
+What is FIAT currency?
+Currencies that are backed by a government are called FIAT currencies. So most of the currencies we are accustomed to like USD(United States Dollar), GBP(Great Britain Pound or Sterling Pound), AUD(Australian Dollar), CNY(Chinese Yen), JPY(Japanese Yen), INR(Indian Rupee) etc are all examples of FIAT currency. I had never heard of the term FIAT before learning about cryptocurrencies.
+FIAT currencies have many disadvantages. They are centralised. These centralised agencies can make the existing money invalid just by a stroke of pen. Recently India carried out a massive demonetisation drive. They can print currency at will, leading to inflation. Inflation is stealing from the poor and gullible without their knowledge. You need agencies like Visa and Master-card to perform exchanges in business outlets. To store your own money you need to pay fees to banks while they make money in interests by lending out your money. If you want to transfer money across borders you need permissions from governments and pay huge fees to companies like Western Union. You pay your fees in percentages whereas it should have been only fee per transaction. The amount shouldn’t really matter.
+FIAT lacks the characteristics of sound money. Cryptocurrencies fill most of these gaps. In addition to all these advantages it it also distributed which is a great advantage in itself, as we don’t need to trust any third party. All thanks to blockchains we are able to use this form of money called cryptocurrencies.
+What is a blockchain?
+Blockchain is the technology behind cryptocurrencies. To be fair cryptocurrencies are one of the use-cases of blockchain. Blockchain is an irreversible(chain of order), incorruptible and distributed ledger of transactions. Incorruptible ledgers forms the basis of many valuable transactions. They might be in the field finance, record keeping in governments, international diplomacy or any record keeping of importance for that matter.
+If you want to know the details of how a blockchain works in layman terms checkout WTF is Blockchain? by 
+Mohit Mamoria
+.
+What is bitcoin?
+Bitcoin is the first peer to peer electronic cash. Bitcoin solved a major problem in electronic cash called “double spending”. While there are many resources you can read about bitcoin, you should definitely start by reading the bitcoin whitepaper. Bitcoin is the torch bearer for cryptocurrencies. Most of the other cryptocurrencies owe it to bitcoin which proved that it was possible to build a secure, decentralised mechanism for storing and transferring value using internet.
+For now just know that double spending is the risk that a digital currency can be spent twice. If the same money can be spent twice the currency will loose its value as it is not secure. Bitcoin addressed this problem and hence opened the flood gates of a completely new world order.
+Who invented Bitcoin or who is Satoshi Nakamoto?
+Satoshi Nakamoto is the inventor of Bitcoin. But who is Satoshi Nakamoto? This has been a long standing mystery and a very important one as well.
+There are many people who believe that Satoshi Nakamoto should get a Nobel prize in Economics and Turing Award(can be considered as Nobel prize in the field of computers) for the same invention that is Bitcoin. This should highlight the potential of blockchains and cryptocurrencies for you.
+What is an altcoin?
+All cryptocurrencies other than Bitcoin are called Altcoins. Bitcoin was the first cryptocurrency. There are many other cryptocurrencies like clones of Bitcoin(claiming better features), Smart contract systems based cryptocurrencies, cryptocurrencies targeting specific fields and various other silly ones as well. All these cryptocurrencies are called altcoins(Alternate coins).
+What is Bitcoin Maximalism?
+Bitcoin fan-boys believe that Bitcoin is the one true coin and all other coins are useless. Bitcoin maximalists claim that there are no real world use-cases for other currencies. They believe that all the money, time and resources should be spent on improving Bitcoin as second layer solutions on Bitcoin network can be used for any kind of application. Hence rendering all other altcoins useless.
+What are different altcoins available?
+Currently there are more than 1900 altcoins available. Most of these coins are scams and rip offs. But you can find a lot of interesting projects in the top 300 altcoins. These gems have the potential to alter the path of humanity. At their current stage you can compare them to internet giants of pre 2000 era. Their real potential is yet to be realised. We might know of their consequences and their value only a couple of decades ahead.
+f you want to know what problems these cryptocurrencies are solving check out the list I made on http://www.bitfolio.org/cryptocurrencies-short-summary. I am a part of the team of this website and the website is still a work in progress. We are working on a set of tools that will increase the awareness about the world of cryptocurrencies. Please ignore any issues.
+Where can I check the list of all cryptocurrencies?
+You can check out all the listed cryptocurrencies on https://coinmarketcap.com/ I have used the word listed as this is not an exhaustive list of coins. These are just the coins that have passed clearance criteria to be listed on coinmarketcap. There are many other projects which are not listed on exchanges and a few are in stealth mode. Hence these projects will not be listed here.
+There are a couple of other alternatives as well. http://cryptocompare.com/coins/list/USD/1 where you can add coins to your favourites and track your favourite cryptocurrencies. http://coins.live is also a similar website and another alternative.
+Is this a good time to invest in Bitcoin?
+I am long on Bitcoin. In the long term I think Bitcoin has a lot of scope for growth. I think the Bitcoin bandwagon is just getting started and I will use every dip to buy a few more Satoshis.
+Many people whom I respect are bullish on the prospects of Bitcoin. You can checkout bullish predictions by many popular crypto personalities on this blog post. Please note that many of these predictions are long term and doesn’t have anything to do with the short time dips or shoot ups.
+Is this a good time to invest in Altcoins?
+While I am bullish on Bitcoin I would suggest caution while investing in altcoins. Most of the altcoins have lost more than 80% from their all time highs around December last year. Many people feel that altcoins might loose further. So invest with caution and only in best projects that you trust for the long term. Don’t forget to set stop losses though. Know when to exit.
+What is an exchange?
+An exchange is a website where you can trade one cryptocurrency for another cryptocurrency. These are also generally called crypto-crypto exchanges to highlight that they don’t support on-ramping which is the ability to buy cryptocurrency directly using FIAT.
+Can I buy cryptocurrencies with FIAT?
+Earlier you could only buy Bitcoin with FIAT and then you had to move your bitcoins to a crypto-crypto exchange to buy other altcoins. But today there are many websites where you can buy many popular cryptocurrencies with FIAT directly.
+What are popular exchanges to buy cryptocurrencies with FIAT in US?
+If you are from US you can checkout Coinbase and Robinhood. Bittrex is also planning to start FIAT support in a phased manner. Listing of altcoins on coinbase is considered a big deal and there are instances of cryptocurrencies rising steeply in price just for the rumours that it is getting listed on Coinbase.
+Can I buy cryptocurrencies with credit card?
+You can buy crypto using FIAT from CEX.IO. Using Xcoins.io you can buy bitcoin using credit cards, Paypal or bank accounts. CEX.IO is the most hassle free way of buying Bitcoin and ethereum. If not for their high fees I would have suggested CEX.IO to many people.
+You can also buy crypto using credit card from 
+Changelly.com
+ Check out their blog for the details https://medium.com/@Changelly/how-to-buy-bitcoin-with-credit-card-on-changelly-2e406f6d2e5c
+Cryptocurrencies are banned in India. So how do I invest?
+No cryptocurrencies are not banned in India. The Indian government has announced that it doesn’t recognise cryptocurrencies as legal tender. What this means is that you can’t force the shop owner to accept cryptocurrencies as a payment for a product you buy. Hence it doesn’t mean that cryptocurrencies are banned in India.
+Investing in cryptocurrencies is not illegal. This should have been clear to you as the government gave the guidelines for filing your income taxes from cryptocurrency trades. Since the government has not made up its mind regarding how to handle and monitor cryptocurrencies they have asked the banks not to support any companies or exchanges that are dealing with cryptocurrencies.
+Post the government circular, many Indian companies have come up with innovative peer to peer transaction with the concerned exchange acting as escrow service.
+What are the popular exchanges to buy cryptocurrencies with FIAT in India?
+Bitxoxo — www.bitxoxo.com This was my favourite when I could buy only Bitcoin with FIAT in India.
+Zebpay — http://link.zebpay.com Most popular exchange in India. They have added more currencies now. We cannot purchase Bitcoin with FIAT now.
+Koinex — https://koinex.in Allows peer to peer exchanges now.
+Unocoin — https://www.unocoin.com
+CoinSecure — https://coinsecure.in
+Bitcoin India — https://bitcoin-india.org
+Wazrix — https://wazirx.com
+Giottus — https://www.giottus.com
+If you are only interested in buying bitcoin you can checkout the rates on http://www.bitcoinrates.in/
+What are the popular crypto to crypto international exchanges?
+Binance and Kucoin are the two very popular crypto to crypto exchanges. Both these exchanges had tremendous growth in last one year. At the peak of the craze, these two exchanges had to close their new signups due to the heavy load which they could not handle.
+Both these exchanges list many altcoins. If a cryptocurrency is in the top 100 list then there is a fair chance that it is listed in one of these two exchanges.
