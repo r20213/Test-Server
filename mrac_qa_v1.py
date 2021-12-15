@@ -117,7 +117,7 @@ class MRAC_QA:
   Only activated if data is not available.
   '''
   def get_data_dict(self):
-    dicts = convert_files_to_dicts(dir_path='Data/NLP/', clean_func=clean_wiki_text, split_paragraphs=True)
+    dicts = convert_files_to_dicts(dir_path='/home/ubuntu/Test/Test-Server/Data/NLP/', clean_func=clean_wiki_text, split_paragraphs=True)
     print('Number of Files -', len(dicts))
     return dicts
 
@@ -127,7 +127,7 @@ class MRAC_QA:
   '''
   def load_data(self):
     try:
-      docs_dir = 'Data/nlp_v1.json'
+      docs_dir = '/home/ubuntu/Test/Test-Server/Data/nlp_v1.json'
       with open(docs_dir, 'r') as f:
         dicts = json.load(f)
       print('Found Data')
