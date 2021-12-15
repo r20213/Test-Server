@@ -1107,4 +1107,4 @@ async def on_message(message):
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Essential One time code - DON'T CHANGE - Restricted
-bot.run('OTE1MjcyNDc0NzE3OTk1MDI5.YaZL6g.4cbrgJr1GYGBxXwo1OD-GZbZjP8')
+bot.run('OTE1MjcyNDc0NzE3OTk1MDI5.YaZL6g.GigaS7cyLzh-fyL35WEG7ksCBEU')
